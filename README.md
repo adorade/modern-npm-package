@@ -1,9 +1,9 @@
 # Modern npm package
 
-[![NPM version](https://img.shields.io/npm/v/@adorade/modern-npm-package.svg)](https://www.npmjs.org/package/@adorade/modern-npm-package)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/adorade/modern-npm-package.svg?label=&color=green&logo=github)](https://github.com/adorade/modern-npm-package/blob/main/package.json)
-[![license](https://img.shields.io/github/license/adorade/modern-npm-package.svg?label=)](https://mit-license.org)
-[![GitHub Actions status](https://github.com/adorade/modern-npm-package/workflows/Test%20CI/badge.svg)](https://github.com/adorade/modern-npm-package/actions)
+[![npm (scoped)](https://img.shields.io/npm/v/@adorade/modern-npm-package?logo=npm)](https://www.npmjs.org/package/@adorade/modern-npm-package)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/adorade/modern-npm-package?color=green&logo=github)](https://github.com/adorade/modern-npm-package/blob/main/package.json)
+[![license](https://img.shields.io/github/license/adorade/modern-npm-package)](https://mit-license.org)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/adorade/modern-npm-package/tests.yml?label=Test%20CI&logo=github)](https://github.com/adorade/modern-npm-package/actions/workflows/tests.yml)
 
 An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format (CJS). It can be used in Node.js and browser applications.
 
